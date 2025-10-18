@@ -15,6 +15,8 @@ Utilizei o "ChatGPT"  para me ajudar na escolha do tema, estruturação do conte
 ## 🚀 Resultados
 O e-book apresenta uma visão clara e prática sobre como a IA pode impulsionar inovação, eficiência e vantagem competitiva. De forma direta e inspiradora, mostra como transformar tecnologia em estratégia e dados em decisões inteligentes.
 
+**[Link do e-book](https://github.com/J3ssps/lab-natty-or-not./blob/18efeb77c0b3aea20cd03518b7b12bcc4d161e1d/Intelig%C3%AAncia%20Artificial%20na%20Transforma%C3%A7%C3%A3o%20das%20Empresas%20do%20Hype%20%C3%A0%20Estrat%C3%A9gia.pdf)**
+
 ## 💭 Reflexão
 Criar este e-book utilizando Inteligência Artificial foi uma experiência prática e enriquecedora. A IA facilitou a pesquisa e a produção do conteúdo, mostrando como pode agilizar o trabalho sem substituir o pensamento crítico e criatividade humana.
 
